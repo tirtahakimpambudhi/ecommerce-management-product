@@ -1,0 +1,47 @@
+# --- Maven ---
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# --- Java Bytecode & Logs ---
+*.class
+*.log
+hs_err_pid*
+
+# --- SQLite Database Files ---
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# --- IDEs & Editors ---
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.settings/
+.project
+.classpath
+bin/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
