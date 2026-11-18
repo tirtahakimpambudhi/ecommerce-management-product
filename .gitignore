@@ -45,3 +45,5 @@ dist/
 # --- OS Generated Files ---
 .DS_Store
 Thumbs.db
+
+**.env**
